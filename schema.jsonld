@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "name": "Formalismo Coherencial Universal TCDS: del Campo Σ a la Física Parsimoniosa y su Verificación Experimental mediante ΣFET, K-Rate y LBCU",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Genaro Carrasco Ozuna"
+    }
+  ],
+  "identifier": "https://doi.org/10.5281/zenodo.17505875",
+  "datePublished": "2025-11-02",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Zenodo"
+  },
+  "isPartOf": {
+    "@type": "CreativeWork",
+    "name": "TCDS Canon Paradigmático",
+    "url": "https://doi.org/10.5281/zenodo.17505875"
+  },
+  "about": [
+    "TCDS",
+    "Campo Sigma",
+    "ΣFET",
+    "K-Rate",
+    "LBCU",
+    "Σ-Computing",
+    "Isomorfismo causal"
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "url": "index.html",
+  "inLanguage": "es"
+}
