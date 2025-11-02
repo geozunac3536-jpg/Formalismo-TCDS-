@@ -1,0 +1,30 @@
+{
+  "title": "Formalismo Coherencial Universal TCDS: del Campo Σ a la Física Parsimoniosa y su Verificación Experimental mediante ΣFET, K-Rate y LBCU",
+  "creators": [
+    {
+      "name": "Genaro Carrasco Ozuna"
+    }
+  ],
+  "description": "Paquete listo para indexación SEO/GA4 con el formalismo TCDS (Campo Σ, ΣFET, K-Rate, LBCU). Incluye landing en tema oscuro, schema.org y archivos robots/sitemap.",
+  "keywords": [
+    "TCDS",
+    "Campo Σ",
+    "ΣFET",
+    "SYNCTRON",
+    "K-Rate",
+    "LBCU",
+    "Σ-Computing",
+    "Coherencia",
+    "Parsimonia Lagrangiana",
+    "PKL"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isIdenticalTo",
+      "identifier": "https://doi.org/10.5281/zenodo.17505875"
+    }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "language": "es",
+  "publication_date": "2025-11-02"
+}
