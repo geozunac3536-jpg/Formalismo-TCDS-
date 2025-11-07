@@ -1,5 +1,5 @@
 # Formalismo Coherencial Universal TCDS: del Campo Σ a la Física Parsimoniosa y su Verificación Experimental mediante ΣFET, K-Rate y LBCU
-
+Nodo central: https://geozunac3536-jpg.github.io/TCDS-Convergencia/
 **Autor:** Genaro Carrasco Ozuna  
 **DOI (Zenodo):** https://doi.org/10.5281/zenodo.17505875  
 **Ko-fi:** https://ko-fi.com/geozunac3536  
